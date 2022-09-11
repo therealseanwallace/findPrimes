@@ -1,1 +1,1 @@
-A small script I wrote to find the nth prime.
+A small script I wrote in JS to find the nth prime.
